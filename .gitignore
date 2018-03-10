@@ -142,5 +142,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+development.js
+
 .idea
 
